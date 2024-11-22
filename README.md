@@ -21,6 +21,6 @@ Before you begin, make sure to set up any environment parameters or configuratio
 3. Run 'npm install' to install the dependencies.
 4. Run 'npm start'.
 
-Link to the Figma design - [Air agency](<https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET>)
+Link to the Figma design - [The Met](<https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET>)
 
 Link to the preview - [DEMO LINK](https://vinogradova8.github.io/museum_landing/)
